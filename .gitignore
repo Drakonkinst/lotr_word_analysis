@@ -1,3 +1,11 @@
+# Datasets
+lotr_book1.txt
+lotr_book2.txt
+lotr_book3.txt
+lotr_complete.txt
+
+._*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
